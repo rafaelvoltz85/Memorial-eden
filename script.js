@@ -1,0 +1,1 @@
+console.log('Memorial Éden carregado');
